@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DesafioMobile</string>
+    <string name="name">Diogo Miron Cavaiar</string>
+    <string name="email">diogo.mironc@gmail.com</string>
+    <string name="send_money">Enviar Dinheiro</string>
+    <string name="shipping_history">Histórico de Envios</string>
+    <string name="title_send_money">ENVIAR DINHEIRO</string>
+    <string name="send">Enviar</string>
+    <string name="value_is_invalid">Deve inserir um valor maior que 0!</string>
+    <string name="transfer_with_success">Enviado com sucesso!</string>
+    <string name="transfer_with_error">Ocorreu um erro inesperado, favor tentar novamente</string>
+    <string name="title_transfer_history">HISTÓRICO DE ENVIOS</string>
+</resources>
